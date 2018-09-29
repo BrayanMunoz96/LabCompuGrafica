@@ -1,0 +1,4 @@
+﻿  main_prac6Clase.cpp
+c:\users\rm\documents\2018_agosto_noviembre\lab_compugrafica\claseprac6\claseprac6\main_prac6clase.cpp(37): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+  ClasePrac6.vcxproj -> C:\Users\RM\Documents\2018_agosto_noviembre\Lab_CompuGrafica\ClasePrac6\Debug\ClasePrac6.exe
+  ClasePrac6.vcxproj -> C:\Users\RM\Documents\2018_agosto_noviembre\Lab_CompuGrafica\ClasePrac6\Debug\ClasePrac6.pdb (Full PDB)
